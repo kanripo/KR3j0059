@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 丹鉛餘錄
-#+DATE: 2019-03-29 21:31:55.636118
+#+DATE: 2019-03-29 21:31:56.306511
 #+PROPERTY: ID KR3j0059
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 6
 <pb:KR3j0059_WYG_006-1a>¶
 　　欽定四庫全書¶
@@ -226,7 +226,7 @@
 ¶
 　　道不茍同于人跡不茍異于俗¶
 ¶
-　　鳶肩羔膝蠅營狗茍小人禽態乎&KR0196;視媚行影附響承¶
+　　鳶肩羔膝蠅營狗茍小人禽態乎烟視媚行影附響承¶
 小人婦態乎¶
 ¶
 <pb:KR3j0059_WYG_006-10a>¶

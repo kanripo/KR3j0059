@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 丹鉛餘錄
-#+DATE: 2019-03-29 21:31:55.682979
+#+DATE: 2019-03-29 21:31:56.349362
 #+PROPERTY: ID KR3j0059
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 13
 <pb:KR3j0059_WYG_013-1a>¶
 　　欽定四庫全書¶
@@ -173,7 +173,7 @@
 無據也南齊書蕭鸞弑其君昭於西弄注弄巷也南方¶
 曰弄北曰&KR1803;㣚弄之反切為&KR1803;㣚也葢方言耳¶
 ¶
-　　&KR0232;姓有母丘氏諸姓氏書音母作無非也漢書有曼丘¶
+　　複姓有母丘氏諸姓氏書音母作無非也漢書有曼丘¶
 臣顔師古曰曼丘毌丘本一姓此說近之亦未考其原¶
 也史記田齊世家伐衛取母丘索𨼆曰母音貫貫丘古國¶
 <pb:KR3j0059_WYG_013-9b>¶

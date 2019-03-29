@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 丹鉛餘錄
-#+DATE: 2019-03-29 21:31:55.907883
+#+DATE: 2019-03-29 21:31:56.506255
 #+PROPERTY: ID KR3j0059
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 39
 <pb:KR3j0059_WYG_039-1a>¶
 　　欽定四庫全書¶
@@ -233,7 +233,7 @@
 城馳夢想歸㠶滿風颷杜詩浦㠶晨初發韓退之詩無¶
 <pb:KR3j0059_WYG_039-12a>¶
 因㠶江水包何詩錦㠶乘風轉金装照地新孟浩然詩¶
-嶺北&KR0158;征㠶巴東問故人徐安身詩暮雨衣猶濕春風¶
+嶺北迴征㠶巴東問故人徐安身詩暮雨衣猶濕春風¶
 㠶正開近蘇州刻孟詩改征㠶為征棹何仲黙笑曰征¶
 㠶改征棹錦㠶亦改曰錦棹可乎葢淺學妄改非初誤¶
 也¶

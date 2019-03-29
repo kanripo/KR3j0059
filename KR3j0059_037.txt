@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 丹鉛餘錄
-#+DATE: 2019-03-29 21:31:55.891250
+#+DATE: 2019-03-29 21:31:56.495295
 #+PROPERTY: ID KR3j0059
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 37
 <pb:KR3j0059_WYG_037-1a>¶
 　　欽定四庫全書¶
@@ -187,7 +187,7 @@
 紺文紫錢¶
 ¶
 　　宋世寒食有抛堶之戯兒童飛瓦石之戯若今之打瓦¶
-也梅都官禁烟詩窈窕踏歌相把&KR0209;輕浮賭勝各飛堶¶
+也梅都官禁烟詩窈窕踏歌相把𬒮輕浮賭勝各飛堶¶
 堶七禾切或云起于堯民之擊壤¶
 ¶
 　　朱子語録云人謂楊億通禪學者以其有八角磨盤之¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 丹鉛餘錄
-#+DATE: 2019-03-29 21:31:56.226488
+#+DATE: 2019-03-29 21:31:56.772775
 #+PROPERTY: ID KR3j0059
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 68
 <pb:KR3j0059_WYG_068-1a>¶
 　　欽定四庫全書¶
@@ -208,7 +208,7 @@
 矣¶
 ¶
 　　蘇老泉云唐三百年文章非兩漢無敵而史之才宜有¶
-如丘明遷固而卒無一人可與范𣋌陳夀比肩公矣乎¶
+如丘明遷固而卒無一人可與范曄陳夀比肩公矣乎¶
 其論乎盖雖韓愈順宗實録亦在所不取也而宋之𤨏¶
 <pb:KR3j0059_WYG_068-10b>¶
 儒乃以五代史竝遷此不足以欺兒童而可誣後世乎¶

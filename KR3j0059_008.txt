@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 丹鉛餘錄
-#+DATE: 2019-03-29 21:31:55.648456
+#+DATE: 2019-03-29 21:31:56.316550
 #+PROPERTY: ID KR3j0059
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 8
 <pb:KR3j0059_WYG_008-1a>¶
 　　欽定四庫全書¶
@@ -76,7 +76,7 @@
 說也陣說也取君下駟與彼上駟取君上駟與彼中駟¶
 取君中駟與彼下駟非馬說也兵說也¶
 ¶
-　　曹伯好田則公孫疆出陳侯好色則儀行父至商辛&KR0075;¶
+　　曹伯好田則公孫疆出陳侯好色則儀行父至商辛淫¶
 酗則惡來進周厲貪虐則榮夷公起¶
 ¶
 <pb:KR3j0059_WYG_008-4a>¶

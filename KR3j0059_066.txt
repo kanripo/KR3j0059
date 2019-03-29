@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 丹鉛餘錄
-#+DATE: 2019-03-29 21:31:56.214804
+#+DATE: 2019-03-29 21:31:56.751829
 #+PROPERTY: ID KR3j0059
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 66
 <pb:KR3j0059_WYG_066-1a>¶
 　　欽定四庫全書¶
@@ -164,7 +164,7 @@
 而卒以勝者扼淮以拒敵而不延敵以入淮也¶
 ¶
 　　六書合體為字上下左右可以相易如秋之與秌&KR0034;之¶
-與酬相易而音義同惟重束為&KR0037;並束為棘日乘干為¶
+與酬相易而音義同惟重束為棗並束為棘日乘干為¶
 旱干從日為旰此則不可易又不知何説也¶
 ¶
 <pb:KR3j0059_WYG_066-8b>¶

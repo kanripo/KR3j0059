@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 丹鉛餘錄
-#+DATE: 2019-03-29 21:31:55.701790
+#+DATE: 2019-03-29 21:31:56.363471
 #+PROPERTY: ID KR3j0059
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 15
 <pb:KR3j0059_WYG_015-1a>¶
 　　欽定四庫全書¶
@@ -443,7 +443,7 @@
 自笑曰范蠡不幸遇杜牧受誣千載又何幸遇予而雪¶
 之亦一快哉¶
 ¶
-　　春秋緯云代殷者&KR0078;昌日衣青光衣之為言被也如人¶
+　　春秋緯云代殷者姬昌日衣青光衣之為言被也如人¶
 <pb:KR3j0059_WYG_015-21b>¶
 著衣選詩繁星衣青天注者不逹改衣為依非¶
 ¶

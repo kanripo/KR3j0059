@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 丹鉛餘錄
-#+DATE: 2019-03-29 21:31:55.931572
+#+DATE: 2019-03-29 21:31:56.523103
 #+PROPERTY: ID KR3j0059
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 42
 <pb:KR3j0059_WYG_042-1a>¶
 　　欽定四庫全書¶
@@ -44,7 +44,7 @@
 　　司馬長卿慕藺相如故名相如元任明自比荀文若故¶
 曰荀彧¶
 ¶
-　　謝莊以風月景山水名五子颺朏顥嵸&KR0682;也宋子虚名¶
+　　謝莊以風月景山水名五子颺朏顥嵸[卄/瀹]也宋子虚名¶
 友五子名鑫森淼焱垚¶
 ¶
 　　佛氏有方等經猶云平等世界也故蕭氏取為名方等¶

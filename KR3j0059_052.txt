@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 丹鉛餘錄
-#+DATE: 2019-03-29 21:31:56.031913
+#+DATE: 2019-03-29 21:31:56.596416
 #+PROPERTY: ID KR3j0059
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 52
 <pb:KR3j0059_WYG_052-1a>¶
 　　欽定四庫全書¶
@@ -355,7 +355,7 @@
 ¶
 　　凋攰¶
 ¶
-　　魏書蔣濟䟽凋攰之民葛洪字苑攰作&KR2803;九偽反¶
+　　魏書蔣濟䟽凋攰之民葛洪字苑攰作卼九偽反¶
 ¶
 　　夫子之告葉公者下顔子一等矣蘧伯玉告顔闔又下¶
 於夫子敎子髙一等惟顔子至命盡神故足以發夫子¶
